@@ -1,0 +1,4 @@
+requests==2.23.0
+eth_keys==0.3.3
+web3==5.11.0
+python-arango==5.4.0
